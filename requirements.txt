@@ -1,0 +1,13 @@
+ffmpeg
+ftfy 
+regex 
+tqdm
+opencv-python 
+boto3 
+requests 
+pandas
+numpy
+scipy
+decord
+tensorboard
+einops
